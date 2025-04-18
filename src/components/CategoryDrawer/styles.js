@@ -11,7 +11,7 @@ import {
 } from "@mui/material";
 
 export const DrawerContent = styled(Box)(({ theme }) => ({
-  width: "400px",
+  width: "350px",
   height: "100%",
   display: "flex",
   flexDirection: "column",
